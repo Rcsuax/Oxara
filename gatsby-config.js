@@ -3,5 +3,7 @@ module.exports = {
     title: `oxara`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
+  plugins: [
+    'gatsby-plugin-postcss',
+  ],
 }
