@@ -28,6 +28,7 @@ const IndexPage = () => {
                   <p className="text-4xl mt-30">Consider this a</p>
                   <p className="text-4xl mt-30">taste test intervetion</p>
                 </div>
+
               </div>
             </div>
             
@@ -43,7 +44,8 @@ const IndexPage = () => {
               <img class="object-cover" src={VegImg} alt="Some vegetable"/>
             </div>
             
-            <div className="relative w-1/2 font-gilroy ">
+            <div className="relative w-1/2 font-gilroy">
+              
               <div className="absolute top-1/4 w-1/2">              
                 <p className="text-4xl">We make it easy for you to cook delicious dinners</p>
                 <p className="text-1xl">
@@ -51,18 +53,15 @@ const IndexPage = () => {
                   pre-portioned ingredients and step-by-step recipes direct to your door ready for you to cook.
                 </p>
               </div>
-            </div>
 
+            </div>
       </div>
 
       <Carousel>
           <Card text="Portobello Baked Eggs with avocado & bread" img={AvoCardImg}/>
           <Card text="Summery salmon, beetroot & spicy mix" img={SalmonCardImg}/>
           <Card text="Backed Avocado Egg with herbs" img={EggsCardImg}/>
-      </Carousel>
-      
-
-      
+      </Carousel>    
     </>
 )
 }

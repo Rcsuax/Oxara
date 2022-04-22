@@ -7,7 +7,7 @@ const Carousel = ({ children }) => {
     return (
         <div className="mx-10 mb-5">
             <div className="flex justify-between">
-                <h2 className="font-gilroy text-3xl"> Latest Recipes</h2>
+                <h2 className="font-gilroy text-3xl">Latest Recipes</h2>
                 
                 <div className="flex flex-row">
                     <img className="mx-5" src={NextBackSVG} />
