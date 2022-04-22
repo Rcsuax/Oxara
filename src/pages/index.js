@@ -27,6 +27,9 @@ const IndexPage = () => {
                   <br />
                   <p className="text-4xl mt-30">Consider this a</p>
                   <p className="text-4xl mt-30">taste test intervetion</p>
+                  <button class="bg-[#A2DE96] text-black-700 font-semibold hover:text-white py-2 px-4 mt-5 rounded">
+                    Learn More
+                  </button>
                 </div>
 
               </div>
@@ -52,6 +55,9 @@ const IndexPage = () => {
                   Simply choose your recipes from a weekly menu and we'll deliver freshly picked vegetables,
                   pre-portioned ingredients and step-by-step recipes direct to your door ready for you to cook.
                 </p>
+                <button class="bg-[#A2DE96] text-black-700 font-semibold hover:text-white py-2 px-4 mt-5 rounded">
+                    Shop Now
+                  </button>
               </div>
 
             </div>
