@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "GILROY";
+    src: url("../fonts/gilroy-light.woff") format("woff2"),
+         url("../fonts/gilroy-extrabold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "KRONA";
+    src: url("../fonts/KronaOne-Regular.ttf") format("ttf");
+}

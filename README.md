@@ -1,54 +1,13 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+## Developer Task
 
-## 🚀 Quick start
+Within around two hours (more or less):
 
-1.  **Create a Gatsby site.**
+1. Build a web page which looks like this design(https://xd.adobe.com/view/87381659- 6068-45c3-976a-a3c6152ab280-d26b/) using React (we are interested in desktop view only).
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+2. There is a starter project that uses Gatsby, React and typescript on this link. (You may also use one without typescript, but we use typescript exclusively on our projects inhouse.)
+https://www.gatsbyjs.com/starters/jpedroschmitz/gatsby-starter-ts
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+Some options for including CSS are Tailwind, styled components or Sass. You can choose which ever you are most comfortable with, but we tend to use tailwind for out projects.
+https://tailwindcss.com/docs/guides/gatsby
 
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
-
-3.  **Open the code and start customizing!**
-
-    Your site is now running at http://localhost:8000!
-
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+3. For the second layer of the page, we would like you to use your creativity to animate the fruit and vegetables when the section comes into view (you will find the required images in the starter folder).
