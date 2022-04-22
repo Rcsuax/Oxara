@@ -16,17 +16,17 @@ const Navbar = () => {
             <div className="w-3/5">
                 
                 <ul className="flex justify-start">
-                    <li className="mx-4">
+                    <li className="mx-4 hover:text-[#FF6B6B]">
                         <Link to="/recipes">Recipe Box</Link>
                     </li>
-                    <li className="mr-4">
+                    <li className="mr-4 hover:text-[#FF6B6B]">
                         <Link to="/products">Products</Link>
                     </li>
-                    <li className="mr-4">
+                    <li className="mr-4 hover:text-[#FF6B6B]">
                         <Link to="/about">About Us</Link>
                     </li>
 
-                    <li className="mr-4">
+                    <li className="mr-4 hover:text-[#FF6B6B]">
                         <Link to="/visit">Visit Us</Link>
                     </li>
                 </ul>
